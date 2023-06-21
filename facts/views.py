@@ -10,7 +10,7 @@ def home(response):
     return render(response, "facts/home.html")
 
 @api_view(['GET', 'POST'])
-def fun_animal_facts(request):
+def fun_animal_facts(request, format=None):
     if request.method == "GET":
         facts = AnimalFact.objects.all()
         fact = random.choice(facts)
@@ -23,7 +23,7 @@ def fun_animal_facts(request):
             return Response(serializer.data,status=status.HTTP_201_CREATED)
 
 @api_view(['GET', 'POST'])
-def fun_capital_facts(request):
+def fun_capital_facts(request, format=None):
     if request.method == "GET":
         facts = CapitalFact.objects.all()
         fact = random.choice(facts)
