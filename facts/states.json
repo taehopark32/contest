@@ -1,0 +1,238 @@
+{
+  "Alabama": {
+    "abbreviation": "AL",
+    "capital": "Montgomery"
+  },
+  "Alaska": {
+    "abbreviation": "AK",
+    "capital": "Juneau"
+  },
+  "American Samoa": {
+    "abbreviation": "AS",
+    "capital": "Pago Pago"
+  },
+  "Arizona": {
+    "abbreviation": "AZ",
+    "capital": "Phoenix"
+  },
+  "Arkansas": {
+    "abbreviation": "AR",
+    "capital": "Little Rock"
+  },
+  "California": {
+    "abbreviation": "CA",
+    "capital": "Sacramento"
+  },
+  "Colorado": {
+    "abbreviation": "CO",
+    "capital": "Denver"
+  },
+  "Connecticut": {
+    "abbreviation": "CT",
+    "capital": "Hartford"
+  },
+  "Delaware": {
+    "abbreviation": "DE",
+    "capital": "Dover"
+  },
+  "District of Columbia": {
+    "abbreviation": "DC",
+    "capital": ""
+  },
+  "Federated States of Micronesia": {
+    "abbreviation": "FM",
+    "capital": "Palikir"
+  },
+  "Florida": {
+    "abbreviation": "FL",
+    "capital": "Tallahassee"
+  },
+  "Georgia": {
+    "abbreviation": "GA",
+    "capital": "Atlanta"
+  },
+  "Guam": {
+    "abbreviation": "GU",
+    "capital": "Hagåtña"
+  },
+  "Hawaii": {
+    "abbreviation": "HI",
+    "capital": "Honolulu"
+  },
+  "Idaho": {
+    "abbreviation": "ID",
+    "capital": "Boise"
+  },
+  "Illinois": {
+    "abbreviation": "IL",
+    "capital": "Springfield"
+  },
+  "Indiana": {
+    "abbreviation": "IN",
+    "capital": "Indianapolis"
+  },
+  "Iowa": {
+    "abbreviation": "IA",
+    "capital": "Des Moines"
+  },
+  "Kansas": {
+    "abbreviation": "KS",
+    "capital": "Topeka"
+  },
+  "Kentucky": {
+    "abbreviation": "KY",
+    "capital": "Frankfort"
+  },
+  "Louisiana": {
+    "abbreviation": "LA",
+    "capital": "Baton Rouge"
+  },
+  "Maine": {
+    "abbreviation": "ME",
+    "capital": "Augusta"
+  },
+  "Marshall Islands": {
+    "abbreviation": "MH",
+    "capital": "Majuro"
+  },
+  "Maryland": {
+    "abbreviation": "MD",
+    "capital": "Annapolis"
+  },
+  "Massachusetts": {
+    "abbreviation": "MA",
+    "capital": "Boston"
+  },
+  "Michigan": {
+    "abbreviation": "MI",
+    "capital": "Lansing"
+  },
+  "Minnesota": {
+    "abbreviation": "MN",
+    "capital": "Saint Paul"
+  },
+  "Mississippi": {
+    "abbreviation": "MS",
+    "capital": "Jackson"
+  },
+  "Missouri": {
+    "abbreviation": "MO",
+    "capital": "Jefferson City"
+  },
+  "Montana": {
+    "abbreviation": "MT",
+    "capital": "Helena"
+  },
+  "Nebraska": {
+    "abbreviation": "NE",
+    "capital": "Lincoln"
+  },
+  "Nevada": {
+    "abbreviation": "NV",
+    "capital": "Carson City"
+  },
+  "New Hampshire": {
+    "abbreviation": "NH",
+    "capital": "Concord"
+  },
+  "New Jersey": {
+    "abbreviation": "NJ",
+    "capital": "Trenton"
+  },
+  "New Mexico": {
+    "abbreviation": "NM",
+    "capital": "Santa Fe"
+  },
+  "New York": {
+    "abbreviation": "NY",
+    "capital": "Albany"
+  },
+  "North Carolina": {
+    "abbreviation": "NC",
+    "capital": "Raleigh"
+  },
+  "North Dakota": {
+    "abbreviation": "ND",
+    "capital": "Bismarck"
+  },
+  "Northern Mariana Islands": {
+    "abbreviation": "MP",
+    "capital": "Saipan"
+  },
+  "Ohio": {
+    "abbreviation": "OH",
+    "capital": "Columbus"
+  },
+  "Oklahoma": {
+    "abbreviation": "OK",
+    "capital": "Oklahoma City"
+  },
+  "Oregon": {
+    "abbreviation": "OR",
+    "capital": "Salem"
+  },
+  "Palau": {
+    "abbreviation": "PW",
+    "capital": "Ngerulmud"
+  },
+  "Pennsylvania": {
+    "abbreviation": "PA",
+    "capital": "Harrisburg"
+  },
+  "Puerto Rico": {
+    "abbreviation": "PR",
+    "capital": "San Juan"
+  },
+  "Rhode Island": {
+    "abbreviation": "RI",
+    "capital": "Providence"
+  },
+  "South Carolina": {
+    "abbreviation": "SC",
+    "capital": "Columbia"
+  },
+  "South Dakota": {
+    "abbreviation": "SD",
+    "capital": "Pierre"
+  },
+  "Tennessee": {
+    "abbreviation": "TN",
+    "capital": "Nashville"
+  },
+  "Texas": {
+    "abbreviation": "TX",
+    "capital": "Austin"
+  },
+  "Utah": {
+    "abbreviation": "UT",
+    "capital": "Salt Lake City"
+  },
+  "Vermont": {
+    "abbreviation": "VT",
+    "capital": "Montpelier"
+  },
+  "Virgin Islands": {
+    "abbreviation": "VI",
+    "capital": "Charlotte Amalie"
+  },
+  "Virginia": {
+    "abbreviation": "VA",
+    "capital": "Richmond"
+  },
+  "Washington": {
+    "abbreviation": "WA",
+    "capital": "Olympia"
+  },
+  "West Virginia": {
+    "abbreviation": "WV",
+    "capital": "Charleston"
+  },
+  "Wisconsin": {
+    "abbreviation": "WI",
+    "capital": "Madison"
+  },
+  "Wyoming": {
+    "abbreviation": "WY",
+    "capital": "Cheyenne"
+  }
+}
